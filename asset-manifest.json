@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pazer/static/css/main.4318e5ec.css",
+    "main.js": "/pazer/static/js/main.daa8a46a.js",
+    "index.html": "/pazer/index.html",
+    "main.4318e5ec.css.map": "/pazer/static/css/main.4318e5ec.css.map",
+    "main.daa8a46a.js.map": "/pazer/static/js/main.daa8a46a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4318e5ec.css",
+    "static/js/main.daa8a46a.js"
+  ]
+}
