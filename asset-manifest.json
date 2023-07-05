@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pazer/static/css/main.4318e5ec.css",
+    "main.css": "/pazer/static/css/main.038fa565.css",
     "main.js": "/pazer/static/js/main.daa8a46a.js",
     "index.html": "/pazer/index.html",
-    "main.4318e5ec.css.map": "/pazer/static/css/main.4318e5ec.css.map",
+    "main.038fa565.css.map": "/pazer/static/css/main.038fa565.css.map",
     "main.daa8a46a.js.map": "/pazer/static/js/main.daa8a46a.js.map"
   },
   "entrypoints": [
-    "static/css/main.4318e5ec.css",
+    "static/css/main.038fa565.css",
     "static/js/main.daa8a46a.js"
   ]
 }
